@@ -75,7 +75,7 @@ Dans cette section, vous allez déployer le modèle d'application ASP.NET MVC p
    
     Une fois publiée, votre application web s'affiche dans le navigateur. 
 7. Pour créer un point de terminaison CDN, connectez-vous au [portail Azure](https://portal.azure.com). 
-8. Cliquez sur **+ Nouveau** > **Médias + CDN** > **CDN**.
+8. Cliquez sur **+ Nouveau** > **Web + Mobile** > **CDN**.
    
     ![](media/cdn-websites-with-cdn/create-cdn-profile.png)
 9. Spécifiez le **CDN**, l’**Emplacement**, le **Groupe de ressources** et le **Niveau tarifaire**, puis cliquez sur **Créer**.
